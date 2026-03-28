@@ -2,7 +2,7 @@
 
 一个专为 Netflix 用户设计的轻量级豆瓣辅助脚本，旨在无缝连接豆瓣“想看”清单与 Netflix 片库。
 
-![脚本效果演示](screenshots/豆瓣想看截图.jpg)
+![脚本效果演示](screenshot/豆瓣想看截图.jpg)
 
 ## 🌟 核心亮点 (Key Features)
 
