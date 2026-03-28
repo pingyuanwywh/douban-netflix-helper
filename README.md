@@ -13,7 +13,7 @@
 ## 🛠️ 安装指南 (Installation)
 
 1. **准备环境：** 确保浏览器已安装 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 插件。
-2. **安装脚本：** - 点击本项目中的 [douban_netflix_search.user.js](此处填入你的文件Raw链接)。
+2. **安装脚本：** - 点击本项目中的 [[[douban_netflix_search.user.js](https://github.com/pingyuanwywh/douban-netflix-helper/raw/refs/heads/main/douban_netflix_search.user.js)](https://raw.githubusercontent.com/pingyuanwywh/douban-netflix-helper/main/douban_netflix_search.user.js)](此处填入你的文件Raw链接)。
    - 在弹出的油猴界面点击“安装”。
 3. **开始使用：** 打开你的 [豆瓣想看列表](https://movie.douban.com/mine?status=wish)，红色按钮即刻呈现。
 
