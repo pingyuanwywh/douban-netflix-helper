@@ -2,6 +2,8 @@
 
 一个专为 Netflix 用户设计的轻量级豆瓣辅助脚本，旨在无缝连接豆瓣“想看”清单与 Netflix 片库。
 
+![脚本效果演示](screenshots/豆瓣想看截图.jpg)
+
 ## 🌟 核心亮点 (Key Features)
 
 - **一键触达：** 在豆瓣“想看”列表页（Wish List）为每个条目自动添加 **Netflix** 搜索按钮。
