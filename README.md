@@ -22,5 +22,5 @@
 本项目诞生于新加坡 NTU 校园生活场景。由于 Netflix 在不同地区（Region）的片库差异，该脚本通过优化搜索关键字构造逻辑，大幅提升了在新加坡区（SG Region）的影片匹配成功率。
 
 ---
-**Author:** [Your Name/GitHub ID]  
+**Author:** [pingyuanwywh]  
 **Category:** Productivity / Media Tools
